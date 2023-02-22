@@ -12,3 +12,4 @@ class FristApp(App):
         return btn1
 if __name__ =="__main__":
     FristApp().run()
+    ññ
